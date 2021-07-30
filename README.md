@@ -18,3 +18,4 @@ npx create-react-app foo --template dronz
 - bundle size analysis script
 - prettier, and a pre-commit git hook to apply prettier
 - deletes all those CRA files you always end up deleting
+- adds a few utils
